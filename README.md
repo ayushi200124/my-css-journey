@@ -2,7 +2,6 @@
 Here I will be documenting my entire day-1 lesson of whatever I did to learn css. This is written by me purely for any future references and also to keep a track of important steps which might help me when I get stuck. This is not a tutorial from my end and I am open to any suggestions from my peers.
 
 **Note:** This writing might help you only if you are a complete beginner. 
-### See the web-app here -> [To-Do App](https://todo-ayushi.herokuapp.com/)
 #### Contents
 1. [Pre-Requisite](#pre)
 2. [Phase 0](#ph0)
@@ -50,3 +49,32 @@ body {                <! –– selector ––>
     background: pink; <! –– declaration (property: value) ––>
     }
 ```
+
+
+
+<a name="ph2"></a>
+## Phase 2
+
+
+<a name="ph3"></a>
+## Phase 3
+
+
+<a name="ph4"></a>
+## Phase 4
+
+
+<a name="ph5"></a>
+## Phase 5
+
+
+<a name="ph6"></a>
+## Phase 6
+
+
+<a name="ph7"></a>
+## Phase 7
+
+
+<a name="ph8"></a>
+## Phase 8
